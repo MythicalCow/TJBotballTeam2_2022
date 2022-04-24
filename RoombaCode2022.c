@@ -1,3 +1,5 @@
+// This is our code to grab botguy using the roomba
+
 #include <kipr/wombat.h>
 void turnRight(int degrees) {
     set_create_total_angle(0);
