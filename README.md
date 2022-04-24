@@ -17,6 +17,6 @@ We have different people taking pictures of progress throughout our meetings and
 
 ### Officers & Captains:
 
-This team is composed of elected team members that are responsible for making sure the meeting runs on smoothly and for documentation of each meeting.
+This team is composed of elected team members that are responsible for making sure the meeting runs smoothly and for writing documentation of each meeting.
 
 _Thanks For Reading!_
