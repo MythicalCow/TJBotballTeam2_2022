@@ -12,8 +12,10 @@ Programming Team:
 Our programming team will also be separated into two subteams. One team is responsible for coding the Create robot and the other team will code the Chassis robot.
 
 Documentation:
+
 We have different people taking pictures of progress throughout our meetings and we maintain an agenda as a team which details progress and goals for our meetings. This keeps members updated about work is done and what needs to be done. 
 
 Officers & Captains:
+
 This team is composed of elected team members that are responsible for making sure the meeting runs on smoothly and for documentation of each meeting.
 
