@@ -1,7 +1,7 @@
 # Welcome!
 This is the github repository for the Botball Team #0143 from the Thomas Jefferson High School for Science Technology. We are team from the Northern Virginia Region that is excited to be participating in the Botball 2022 Season this year.
 
-# Division of Labor
+# Team Organization
 
 Building Team:
 
