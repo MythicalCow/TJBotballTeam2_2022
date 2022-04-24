@@ -19,4 +19,4 @@ We have different people taking pictures of progress throughout our meetings and
 
 This team is composed of elected team members that are responsible for making sure the meeting runs on smoothly and for documentation of each meeting.
 
-<span style="color:blue"> Thanks For Reading!</span>
+_Thanks For Reading!_
